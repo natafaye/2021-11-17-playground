@@ -1,4 +1,4 @@
 console.log("hello there");
 
-var variableName = "fdjskfldsjfklds"
-console.log(variableName);
+var variableName2 = "fdjskfldsjfklds"
+console.log(variableName2);
